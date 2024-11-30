@@ -1,0 +1,41 @@
+.app-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .input-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  
+  .input-form label {
+    font-size: 16px;
+  }
+  
+  .input-form input {
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .results {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
